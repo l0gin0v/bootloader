@@ -1,0 +1,4 @@
+.learn/
+
+# object-files
+*.o
